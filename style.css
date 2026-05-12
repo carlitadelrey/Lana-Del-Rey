@@ -1,0 +1,41 @@
+.fondo-pagina {
+    background-color: #5a0b0b;
+    color: #f8f1e7;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    margin: 0;
+}
+
+
+.tarjeta {
+    
+    width: 400px;         
+    min-height: 250px;    
+    
+    
+    padding: 30px;       
+    margin: 40px auto;    
+    
+    
+    border: 3px solid #d4af37; 
+    border-radius: 15px;       
+    background-color: rgba(0, 0, 0, 0.3); 
+    
+    
+    text-align: center;
+}
+
+
+.subtitulo {
+    font-family: 'Playfair Display', serif;
+    color: #d4af37;
+    margin-top: 0;
+}
+
+.texto-biografia {
+    font-size: 16px;
+    line-height: 1.5;
+}
